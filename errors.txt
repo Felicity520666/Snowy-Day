@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 63: end of line expected.
+    m "Do you know Isabella is a feminine given name of Italian and Spanish orgin, meaning \\"devoted to God"\\..."
+                                                                                              ^
+
+Ren'Py Version: Ren'Py 8.4.1.25072401
+Fri Jan 23 16:06:07 2026

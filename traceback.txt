@@ -1,0 +1,33 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 169, in script
+    with fdissolve
+  File "game/script.rpy", line 169, in <module>
+    with fdissolve
+         ^^^^^^^^^
+NameError: name 'fdissolve' is not defined. Did you mean: 'dissolve'?
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/script.rpy", line 169, in script
+    with fdissolve
+  File "renpy/ast.py", line 1574, in execute
+    trans = renpy.python.py_eval(self.expr)
+            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "renpy/python.py", line 1292, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1285, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/script.rpy", line 169, in <module>
+    with fdissolve
+         ^^^^^^^^^
+NameError: name 'fdissolve' is not defined. Did you mean: 'dissolve'?
+
+macOS-15.7.3-arm64-arm-64bit arm64
+Ren'Py 8.4.1.25072401
+Snowy Day 1.0
+Fri Jan 23 18:32:23 2026
