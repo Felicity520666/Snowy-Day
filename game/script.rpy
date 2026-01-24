@@ -175,7 +175,9 @@ label start:
         with fade
         play sound "winner-game-sound-404167.mp3"
         play music "snow-is-coming-427915.mp3" fadein 2.5
-        I "I didn't go but soon found a sincere boyfriend in my workplace and had a happy life."
+        show guy at left
+        with moveinleft
+        I "I didn't go but soon found this sincere boyfriend at the left in my workplace lol and had a happy life."
         I "Good Ending"
         return
 
