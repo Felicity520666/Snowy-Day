@@ -23,7 +23,7 @@ label start:
     I "A new year means a new beginning!"
     show isabella awkward 
     with dissolve
-        I "Ummm... a new beginning... what actually counts as one...?"
+    I "Ummm... a new beginning... what actually counts as one...?"
     show isabella laugh
     with dissolve
     I "Oh oh! I should find myself a boyfriend!"
@@ -61,14 +61,13 @@ label start:
     show isabella shy
     with dissolve
     m "Isabella, Isabella... Such a good name..."
-    m "Do you know Isabella is a feminine given name of Italian and Spanish orgin, meaning \"devoted to God\"..."
+    m "Do you know Isabella is a feminine given name of Italian and Spanish origin, meaning \"devoted to God\"..."
     show isabella stunned
     with dissolve
     I "Ummm... so I do know it is a feminine name..."
     show isabella normal 
     with dissolve
-        m "Isabella... such a beautiful name..."
-        m "Do you know Isabella is a feminine given name of Italian and Spanish origin, meaning \"devoted to God\"..."
+    m "Isabella... such a beautiful name..."
     m "{i}Isa{/i} sounds soft and gentle, and {i}bella{/i}--well, it literally means beautiful!"
     m "It feels like a flower you'd find in a quiet garden. Elegant, but not trying too hard..."
     show isabella suprised 
@@ -133,7 +132,7 @@ label start:
     m "Tomorrow night at 11. See you at Pine Ridge Ski Resort."
     show isabella awkward
     with dissolve
-        I "That's too late... And Pine Ridge Ski Resort? I've never heard of that place before..."
+    I "That's too late... And Pine Ridge Ski Resort? I've never heard of that place before..."
     show isabella normal
     with dissolve
     m "I'm a bit of a night owl... I can send you the location."
