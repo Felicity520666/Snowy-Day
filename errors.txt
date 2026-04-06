@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 63: end of line expected.
-    m "Do you know Isabella is a feminine given name of Italian and Spanish orgin, meaning \\"devoted to God"\\..."
-                                                                                              ^
+File "game/screens.rpy", line 362: Line is indented, but the preceding add statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    style "main_menu_frame"
+    ^
 
 Ren'Py Version: Ren'Py 8.4.1.25072401
-Fri Jan 23 16:06:07 2026
+Mon Apr  6 13:40:25 2026

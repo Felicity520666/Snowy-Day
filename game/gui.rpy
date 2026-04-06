@@ -28,7 +28,7 @@ define config.check_conflicting_properties = True
 define gui.accent_color = '#99ccff'
 
 ## The color used for a text button when it is neither selected nor hovered.
-define gui.idle_color = '#888888'
+define gui.idle_color = '#063dd5'
 
 ## The small color is used for small text, which needs to be brighter/darker to
 ## achieve the same effect.
@@ -57,22 +57,22 @@ define gui.interface_text_color = '#ffffff'
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
-define gui.text_font = "DejaVuSans.ttf"
+define gui.text_font = "fonts/MtfCutiePatootie-vdpE.ttf"
 
 ## The font used for character names.
-define gui.name_text_font = "DejaVuSans.ttf"
+define gui.name_text_font = "fonts/MTF Magical Marilyn.ttf"
 
 ## The font used for out-of-game text.
-define gui.interface_text_font = "DejaVuSans.ttf"
+define gui.interface_text_font = "fonts/MTFBeMine.otf"
 
 ## The size of normal dialogue text.
-define gui.text_size = 33
+define gui.text_size = 55
 
 ## The size of character names.
-define gui.name_text_size = 45
+define gui.name_text_size = 66
 
 ## The size of text in the game's user interface.
-define gui.interface_text_size = 33
+define gui.interface_text_size = 66
 
 ## The size of labels in the game's user interface.
 define gui.label_text_size = 36
